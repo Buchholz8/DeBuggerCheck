@@ -12,8 +12,8 @@ let max_volume = 20.5
 let current_volume =1/8
 console.log(max_volume / current_volume);
 console.log(max_volume / current_volume * 100);
-let user_two="cat"
-let user_three="fish"
-let user_four="bird"
-let user_five="dog"
-let usernames=[`cat`,`dog`,`fish`,`bird`];
+let usernames=[`cat`,`dog`,`fish`,`bear`,`bird`];
+let first_user_name = usernames[0];
+let middle_user_name = usernames[2];
+let last_user_name = usernames[4];
+
